@@ -1,0 +1,15 @@
+{
+    "name": "custom-toolkit",
+    "version": "1.0.0",
+    "description": "An awesome custom global module",
+    "main": ".Desktop/index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "bin": {
+      "dosomethingawesome": "./bin/demo-global.js"
+    },
+    "preferGlobal": true,
+    "author": "ourcodeworld",
+    "license": "MIT"
+}
