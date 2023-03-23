@@ -9,6 +9,9 @@
     "bin": {
       "dosomethingawesome": "./bin/demo-global.js"
     },
+    "publishConfig": {
+  "registry": "https://npm.pkg.github.com"
+  },
     "preferGlobal": true,
     "author": "ourcodeworld",
     "license": "MIT"
